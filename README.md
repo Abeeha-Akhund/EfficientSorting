@@ -22,7 +22,7 @@ https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html
 
 9. Right click in Project Explorer and select import > Git > Projects from Git > Existing Local Repository > EfficientSorting<master> > next > import using the New project wizard > finish > java > java project > next.
 
-10. Name your project in your Create your java Project window. Deselect 'Use default location' and browse for location select the project in git folder or you could look for the location in Git Repositories right down side of Eclipse. click finish.
+10. Name your project in your 'Create your java Project' window. Deselect 'Use default location' and browse for location & select the project in git folder or you could look for the location in Git Repositories in right down side of Eclipse. click finish.
 
 11. Right Click on the your project in 'Project Explorer' > Run > Java Application.
 
