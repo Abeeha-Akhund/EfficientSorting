@@ -5,7 +5,8 @@ Instructions:
 1. Copy the URL from 'Code' dropdown option.
 
 2. To run the project you'll need to have  Eclipse IDE.
-If you dont have Eclipse IDE Kindly follow the instructions mentioned: https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html
+If you dont have Eclipse IDE Kindly follow the instructions mentioned only for --- 1.  How to Install Eclipse IDE 2019-12 for Java Developers
+https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html
 
 3. Next Open Eclipse IDE.
 
